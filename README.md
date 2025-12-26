@@ -42,7 +42,6 @@ This project demonstrates practical use of **computer vision, deep learning, and
 - **NumPy** – Numerical operations and preprocessing.  
 - **Pillow (PIL)** – Image conversion for GUI display.  
 - **customtkinter** – Desktop GUI framework.  
-- **Threading** – Ensures non-blocking real-time prediction.
 
 ---
 
@@ -55,18 +54,5 @@ This project demonstrates practical use of **computer vision, deep learning, and
 
 ---
 
-## Future Enhancements
-- Integrate **text-to-speech** functionality for the formed word.  
-- Expand gesture vocabulary to recognize **full sentences and phrases**.  
-- Optimize model for **higher prediction speed and accuracy**.  
-- Deploy as a **cross-platform mobile application** for wider accessibility.
 
----
 
-## Author
-**Shafi S** – Backend-focused Python developer with expertise in **computer vision, deep learning, and interactive GUI applications**.
-
----
-
-## License
-This project is licensed under the MIT License.
